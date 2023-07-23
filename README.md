@@ -20,8 +20,8 @@ I completed this Web Development Bootcamp by Angela Yu HTML and CSS Capstone pro
 
 ### Links
 
-- Solution URL: (https://github.com/kbthe2/nftcard)
-- Live Site URL: (https://kbthe2.github.io/nftcard/)
+- Solution URL: (https://github.com/kbthe2/portolio)
+- Live Site URL: (https://kbthe2.github.io/portolio/)
 
 ## My process
 
