@@ -15,10 +15,8 @@ I completed this Web Development Bootcamp by Angela Yu HTML and CSS Capstone pro
 
 ### Screenshot
 
-![](./design/Screenshot%202023-07-15%20191303.jpg)
-![](./design/Screenshot%202023-07-15%20191424.jpg)
-![](./design/Screenshot%202023-07-15%20at%2019-11-16%20Frontend%20Mentor%20NFT%20preview%20card%20component.png)
-![](./design/Screenshot%202023-07-15%20at%2019-11-46%20Frontend%20Mentor%20NFT%20preview%20card%20component.png)
+![](./assests/Screenshot%202023-07-23%20at%2021-43-27%20DKB%20Portfolio.png)
+![](./assests/Screenshot%202023-07-23%20at%2021-44-19%20DKB%20Portfolio.png)
 
 ### Links
 
